@@ -1,4 +1,4 @@
-GitDemoRepo
+Algorithm Programming
 ===========
 
-This is a demonstration for using GITHUB
+Solution to coding problems hosted on various online platforms like InterviewStreet, Codechef, Codeforces etc.
