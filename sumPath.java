@@ -48,7 +48,6 @@ public class PathSum {
          
      else
      {
-         boolean ans=false;
          final int subSum=sum-node.data;
          return (isSum(node.left,subSum)||isSum(node.right,subSum));
          
